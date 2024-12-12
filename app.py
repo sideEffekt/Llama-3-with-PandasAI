@@ -4,7 +4,7 @@ import pandas as pd
 from pandasai import SmartDataframe
 
 model = LocalLLM(
-    api_base="http://192.168.254.18:11434",
+    api_base="http://192.168.254.18:11434/v1",
     model="llama3"
 )
 
