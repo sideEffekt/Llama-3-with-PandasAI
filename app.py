@@ -5,7 +5,7 @@ from pandasai import SmartDataframe
 
 model = LocalLLM(
     api_base="http://192.168.254.18:11434",
-    model="llama3.2:latest"
+    model="llama3.2"
 )
 
 st.title("Data analysis with PandasAI")
