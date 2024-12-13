@@ -1,6 +1,6 @@
 pandas
 pandasai
 streamlit
-#numpy==1.26.4
-#pyyaml
-#seaborn
+numpy==1.26.4
+pyyaml
+seaborn
